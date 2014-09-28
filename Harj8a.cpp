@@ -27,7 +27,7 @@ void main()
 		if (luku2 < luku3)
 			cout <<"pienin on luku1"<< endl << "keskimmainen on luku2"<< endl << "suurin on luku3" << endl;
 		else { 
-			if (luku1<luku2)
+			if (luku1<luku3)
 				cout << "pienin on luku1" << endl << "keskimmainen on luku3" << endl << "suurin on luku2" << endl;
 			else cout << "pienin on luku3" << endl << "keskimmainen on luku1" << endl << "suurin on luku2" << endl;
 		}
